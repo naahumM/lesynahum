@@ -24,7 +24,7 @@ The template is designed with an initial full viewport header with background im
 
 To override the stock image, you have two options:
 
-1. Replace `img/hero.jpeg` with your own image (but keep the filename the same).
+1. Replace `img/nahumyles.jpeg` with your own image (but keep the filename the same).
 2. Replace the header `background-image` file path in `theme.css` with the path to your image.
 
 ### Details
